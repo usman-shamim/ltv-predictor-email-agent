@@ -1,0 +1,8 @@
+{
+  "name": "ltv-predictor-email-agent",
+  "nodes": [],
+  "connections": {},
+  "settings": {
+    "timezone": "Asia/Karachi"
+  }
+}
